@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color background_green
+color black
+color color_best_tip
+color color_worst_tip
+color ic_launcher_background
+color primary_green
+color secondary_green
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font caveat_brush
+id PercentageBar
+id TipAmount
+id TipAmountShow
+id TipPercentage
+id TotalAmount
+id TotalAmountShow
+id UserAmount
+id enteredAmount
+id tvColor
+id tvMadeBy
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Tippy
+style Theme.Tippy
+xml backup_rules
+xml data_extraction_rules

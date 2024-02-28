@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_green">#4CD6E0</color>
+    <color name="black">#FF000000</color>
+    <color name="color_best_tip">#35BA01</color>
+    <color name="color_worst_tip">#DC1E0B</color>
+    <color name="ic_launcher_background">#A28679</color>
+    <color name="primary_green">#12E063</color>
+    <color name="secondary_green">#12E0AA</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Tippy</string>
+    <style name="Base.Theme.Tippy" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryVariant">@color/secondary_green</item>
+        <item name="colorOnBackground">@color/background_green</item>
+    </style>
+    <style name="Theme.Tippy" parent="Base.Theme.Tippy"/>
+</resources>
